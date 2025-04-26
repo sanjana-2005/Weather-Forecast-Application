@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.sql.SQLException;
 
-public class weather extends JFrame {
+public class weather extends JFrame{
 
     private JTextField locationField;
     private JComboBox<String> infoComboBox;
